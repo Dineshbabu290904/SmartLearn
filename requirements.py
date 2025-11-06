@@ -1,5 +1,5 @@
 streamlit
 groq
-PyPDF21
+PyPDF2
 python-docx
 Pillow
